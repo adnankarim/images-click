@@ -1,3 +1,6 @@
+
+        <!-- Start of accordion tab -->
+
 <div class="wrap_basic">
   <button class="accordion">
     WEEK 1: THE <strong>CONNECtION</strong> MODULE
@@ -128,3 +131,5 @@
   </div>
 </div>
 </div>
+        <!-- End of accordion tab -->
+
