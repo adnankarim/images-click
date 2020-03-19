@@ -1,0 +1,130 @@
+<div class="wrap_basic">
+  <button class="accordion">
+    WEEK 1: THE <strong>CONNECtION</strong> MODULE
+  </button>
+  <div class="panel">
+    <div class="main_head">
+      <div class="logo_head">
+        <!-- To change 200x200 image -->
+        <img src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/logo_placeholder1.png">
+      </div>
+      <div class="content_head">
+        <h6 id="golden_head" class="golden_style_head">
+          <span>
+            <p>the communication module</p>
+          </span>
+        </h6>
+        <h3 id="golden_head_2" class="golden_style_head_2 blue_line_bottom">
+          <span>
+            <p>
+              DRAMA-FREE COMMUNICATION FOR COUPLES
+            </p>
+          </span>
+        </h3>
+        <div class="clearboth"></div>
+        <h6 id="golden_head_3" class="golden_style_head_3">
+          <span>
+            <p>so you can resolve your differences and get on the same page…</p>
+          </span>
+        </h6>
+      </div>
+    </div>
+    <div class="main_middle">
+      <div class="row">
+        <div class="column">
+          <div class="left_middle">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <strong>Inventore</strong> minima quo mollitia quisquam quaerat. Tempora id nobis, adipisci at assumenda iste quo fugit iure commodi temporibus, corrupti, praesentium dolorum
+              sit?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit aliquam, veritatis officia dolores vitae quo necessitatibus, a veniam eaque, facere id? Corrupti quae facilis enim alias aliquam quas reprehenderit repellendus.
+            </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore repudiandae magnam molestias officia suscipit reprehenderit eligendi vitae amet, voluptate in natus culpa, tempore iste non, unde deleniti possimus pariatur id!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <strong>Inventore</strong> repudiandae magnam molestias officia suscipit reprehenderit eligendi vitae amet, voluptate in natus culpa, tempore iste non, unde deleniti possimus
+              pariatur id!</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="right_middle">
+            <div id="block">
+              <div class="photo">
+                <!-- adding the images to testimonial and changing their names -->
+                <img src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/photo-bg.png" alt="" class="photo-bg" />
+                <img src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/photo.jpg" alt="" class="photo" />
+              </div>
+              <p class="content">
+                <span class="laquo">&nbsp;</span>Lorem ipsum dolor sit amet, sanctus corrumpit ei quo, eu quo meis brute, sed ut possit vocibus graecis. Dicant mandamus ne duo, mazim aperiam ei eos.<span class="raquo">&nbsp;</span></p>
+              <div class="sign">
+                <!-- Change the name to your testimonial -->
+                <a href="#">Jay Hafling</a>
+                <p>Freelance web-designer</p>
+              </div>
+            </div>
+            <div id="second_middle_right">
+              <div id="block">
+                <div class="photo">
+                  <img src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/photo-bg.png" alt="" class="photo-bg" />
+                  <!--  Change it to your testimonial  image-->
+                  <img src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/photo.jpg" alt="" class="photo" />
+                </div>
+                <p class="content">
+                  <span class="laquo">&nbsp;</span>Lorem ipsum dolor sit amet, sanctus corrumpit ei quo, eu quo meis brute, sed ut possit vocibus graecis. Dicant mandamus ne duo, mazim aperiam ei eos.<span class="raquo">&nbsp;</span></p>
+                <div class="sign">
+                  <!-- Change the name to your testimonial -->
+                  <a href="#">Jay Hafling</a>
+                  <p>Freelance web-designer</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main_bottom">
+      <div class="outer_bottom">
+        <h3 class="heading_bottom">
+          <span>
+            <p>
+              HERE'S A SMALL SAMPLE OF WHAT YOU'LL LEARN IN <strong>week</strong> 2:
+            </p>
+          </span>
+        </h3>
+        <div class="clearboth"></div>
+        <div id="ul_main_bottom">
+          <ul>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>Discover your relationship blind&nbsp;spot – </strong>the unconscious relationship pattern that sabotages your love life, so it&nbsp;doesn't creep up&nbsp;on you and destroy&nbsp;your&nbsp;relationship.</em> </li>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>How to&nbsp;talk about your 'issues'</strong>without sparks flying.</em>
+            </li>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>Discover the #1 reason cited for divorce</strong> and how to protect your relationship from it.</em> </li>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>7 mindsets </strong>that securely connected couples use. Adopt these and you'll turn your relationship into a safe-haven&nbsp;in no time.</em> </li>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>Discover your relationship blind&nbsp;spot – </strong>the unconscious relationship pattern that sabotages your love life, so it&nbsp;doesn't creep up&nbsp;on you and destroy&nbsp;your&nbsp;relationship.</em> </li>
+            <li>
+              <img class='img_arrow' src="https://raw.githubusercontent.com/adnankarim/images-click/master/images/Arrow-min.png" width="16px" height="16px">
+              <em><strong>Discover the #1 reason cited for divorce</strong> and how to protect your relationship from it.</em> </li>
+          </ul>
+        </div>
+        <div class="clearboth"></div>
+        <div class="clickHere_bottom">
+          <h6 id="click_bottom">
+            <span>
+              <p>
+                <!-- end link -->
+
+                <a class="click_bottom_anchor" href="#">Click Here To Enroll</a>
+              </p>
+            </span>
+          </h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
